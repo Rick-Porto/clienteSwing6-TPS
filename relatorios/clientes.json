@@ -1,0 +1,65 @@
+[
+  {
+    "cpf": {
+      "numero": 1556520018
+    },
+    "nome": "Pedro Pereira Passos",
+    "dataNasc": "2002-03-15",
+    "endereco": {
+      "logradouro": "Rua Gonzaga Bastos",
+      "numero": 300,
+      "complemento": "casa 7",
+      "bairro": "Vila Isabel",
+      "cidade": "Rio de Janeiro",
+      "cep": 20541000,
+      "uf": "RJ"
+    },
+    "telefone": {
+      "ddd": 21,
+      "numero": 966661111
+    },
+    "id": "7a5b565a-3f2e-474c-ba5b-6f39aa6f22a0"
+  },
+  {
+    "cpf": {
+      "numero": 18777949021
+    },
+    "nome": "Beatriz Almeida de Carvalho",
+    "dataNasc": "2001-08-07",
+    "endereco": {
+      "logradouro": "Rua Barão de Mesquita",
+      "numero": 200,
+      "complemento": "ap 101",
+      "bairro": "Tijuca",
+      "cidade": "Rio de Janeiro",
+      "cep": 20540006,
+      "uf": "RJ"
+    },
+    "telefone": {
+      "ddd": 21,
+      "numero": 977773333
+    },
+    "id": "46025a29-6a39-40e4-9a20-d8a6d1c1881e"
+  },
+  {
+    "cpf": {
+      "numero": 56166544006
+    },
+    "nome": "Jose Maria de Abreu e SIlva",
+    "dataNasc": "1999-10-21",
+    "endereco": {
+      "logradouro": "Rua Barão de Mesquita",
+      "numero": 100,
+      "complemento": "ap 801",
+      "bairro": "Tijuca",
+      "cidade": "Rio de Janeiro",
+      "cep": 20540006,
+      "uf": "RJ"
+    },
+    "telefone": {
+      "ddd": 21,
+      "numero": 988884444
+    },
+    "id": "02a9c8cc-5488-4c78-aba4-6e39a9c160c2"
+  }
+]
